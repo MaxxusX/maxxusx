@@ -18,7 +18,7 @@
 
 ### Socials
 <a href="https://twitter.com/MaxxusYT2"><img src="https://img.shields.io/badge/twitter-blue?style=for-the-badge&logo=twitter" alt="twitter"></a>
-<a href="https://discord.gg/"><img src="https://img.shields.io/badge/maxxusx-darkblue?style=for-the-badge&logo=discord" alt="discord: MaxxusX"></a>
+<a href="https://discord.gg/zhgVeJeKVR"><img src="https://img.shields.io/badge/maxxusx-darkblue?style=for-the-badge&logo=discord" alt="discord: MaxxusX"></a>
 <a href="https://www.youtube.com/@MaxxusX"><img src="https://img.shields.io/badge/youtube-darkred?style=for-the-badge&logo=youtube" alt="twitter"></a>
 
 ### Languages
