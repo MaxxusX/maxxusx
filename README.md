@@ -1,6 +1,5 @@
 <p align="center"><img src="https://github-widgetbox.vercel.app/api/profile?username=maxxusx&data=repositories&theme=metropolis"></p>
-
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=python,markdown,js,html,css,lua&includeNames=true)](https://github.com/Jurredr/github-widgetbox)
+<p align="center"><img src="https://github-widgetbox.vercel.app/api/skills?languages=python,markdown,js,html,css,lua&includeNames=true&theme=metropolis"></p>
 
 
 ### hi
