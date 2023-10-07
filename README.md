@@ -11,6 +11,8 @@
 	</table>
 </p>
 
+<p align = "center"><img src = "https://github-widgetbox.vercel.app/api/profile?username=maxxusx&data=repositories&theme=metropolis"></p>
+
 ### hi
 
 - currently working on a funny little discord bot, and my [super epic awesome website](https://maxxus.pages.dev)!!!
